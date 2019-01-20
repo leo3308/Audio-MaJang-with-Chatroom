@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\bin\Debug\majong_class.dll
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\bin\Debug\majong_class.pdb
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\obj\Debug\majong_class.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\obj\Debug\majong_class.dll
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\obj\Debug\majong_class.pdb
+\\Mac\Home\Desktop\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\bin\Debug\majong_class.dll
+\\Mac\Home\Desktop\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\bin\Debug\majong_class.pdb
+\\Mac\Home\Desktop\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\obj\Debug\majong_class.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\obj\Debug\majong_class.dll
+\\Mac\Home\Desktop\軟體工程\軟體工程\ma_jang_版面聊天室\majong_class\obj\Debug\majong_class.pdb

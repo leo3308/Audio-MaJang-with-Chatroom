@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\軟體工程\ma_jang_版面\Class1\bin\Debug\Class1.dll
+\\Mac\Home\Documents\軟體工程\ma_jang_版面\Class1\bin\Debug\Class1.pdb
+\\Mac\Home\Documents\軟體工程\ma_jang_版面\Class1\obj\Debug\MajClass.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\軟體工程\ma_jang_版面\Class1\obj\Debug\Class1.dll
+\\Mac\Home\Documents\軟體工程\ma_jang_版面\Class1\obj\Debug\Class1.pdb
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\Class1\bin\Debug\Class1.dll
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\Class1\bin\Debug\Class1.pdb
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\Class1\obj\Debug\MajClass.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\Class1\obj\Debug\Class1.dll
+C:\Users\User\Downloads\軟體工程\軟體工程\ma_jang_版面聊天室\Class1\obj\Debug\Class1.pdb
